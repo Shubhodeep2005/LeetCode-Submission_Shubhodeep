@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
