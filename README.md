@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
