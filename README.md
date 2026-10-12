@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2079-watering-plants) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -67,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2079-watering-plants) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Treap
 |  |
 | ------- |
