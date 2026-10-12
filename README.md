@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0070-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -168,4 +169,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
