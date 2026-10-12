@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1143-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
