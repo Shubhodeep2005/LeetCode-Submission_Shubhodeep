@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0179-largest-number) |
 | [1143-longest-common-subsequence](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0020-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
