@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Linked List
 |  |
@@ -98,10 +100,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2079-watering-plants) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
