@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 ## Matrix
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
