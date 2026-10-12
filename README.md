@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2079-watering-plants) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
