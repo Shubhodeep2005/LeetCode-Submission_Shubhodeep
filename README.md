@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
