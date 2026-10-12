@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+| [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1472-design-browser-history) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
