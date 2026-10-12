@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
