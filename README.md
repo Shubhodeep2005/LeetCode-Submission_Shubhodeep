@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/0001-two-sum) |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1122-relative-sort-array) |
+## Greedy
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Shubhodeep2005/LeetCode-Submission_Shubhodeep/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
